@@ -1,0 +1,182 @@
+[
+  {
+    "id": "6fa94842-d9d0-4771-96dd-21520bbfe2db",
+    "data": [
+      {
+        "text": "gostaria de fazer ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " reserva",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "aa5781fa-9877-4842-840c-eb44fa109834",
+    "data": [
+      {
+        "text": "Por gentileza, gostaria de alugar ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " recurso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "f3c137d7-0878-4493-b3b8-480c0c06bc40",
+    "data": [
+      {
+        "text": "quero fazer ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " reserva",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "67743114-5d0a-41e1-87b2-3fb3714ce9ef",
+    "data": [
+      {
+        "text": "Por gentileza, gostaria de fazer ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " reserva",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "c247ba09-a40a-4a5d-b734-c6093fbb9017",
+    "data": [
+      {
+        "text": "Por gentileza, gostaria de fazer ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " reserva de recurso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "a2eadb69-c466-4883-91c1-9251a189350a",
+    "data": [
+      {
+        "text": "gostaria de alugar ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " recurso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "005d27df-f216-4b1d-993e-f5eb1a120611",
+    "data": [
+      {
+        "text": "quero alocar ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " recurso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "63db658a-425f-497d-8374-26fe80bb58e8",
+    "data": [
+      {
+        "text": "Por gentileza, gostaria de fazer ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " agendamento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4ebe2d65-0909-4958-943a-6ab63d678cc4",
+    "data": [
+      {
+        "text": "Por gentileza, gostaria de fazer ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " alocação",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "a078d68b-ae36-44e8-8e44-abf1f19091d5",
+    "data": [
+      {
+        "text": "Com vai?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3df0a6b0-b75d-46c1-a1c3-b2d614562b5c",
+    "data": [
+      {
+        "text": "oi, tudo bem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e1b8871a-7c9f-41fd-bed6-364a3a10dfc4",
+    "data": [
+      {
+        "text": "Olá",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c0fde544-3c91-4d4b-ad6f-701ef5739bdd",
+    "data": [
+      {
+        "text": "Oi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

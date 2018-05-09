@@ -1,0 +1,101 @@
+[
+  {
+    "id": "820d9b24-6b07-4898-920a-6d55df81de79",
+    "data": [
+      {
+        "text": "exato",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f93a0bba-d5d8-439a-97c9-cbfdb57ed0f9",
+    "data": [
+      {
+        "text": "correto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a3ab05b8-10c5-4504-8837-bbb7dfdb3cc3",
+    "data": [
+      {
+        "text": "certo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e88a0e60-58e3-49de-8675-ecb707084066",
+    "data": [
+      {
+        "text": "Ok",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e20d3852-7c84-4816-84fd-ee96f3a8c8c6",
+    "data": [
+      {
+        "text": "Sim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "735e8d63-a828-4393-90b2-76980e6c4023",
+    "data": [
+      {
+        "text": "manda bala",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "31c0e480-943f-4ece-85b5-28ccda38b17d",
+    "data": [
+      {
+        "text": "isso mesmo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9990aebf-2842-41a7-8a0e-7e203a8df098",
+    "data": [
+      {
+        "text": "confirmado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "83ffdabb-5705-4fd9-a190-f1302a45af0f",
+    "data": [
+      {
+        "text": "Confirmo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

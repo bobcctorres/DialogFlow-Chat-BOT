@@ -1,0 +1,48 @@
+{
+  "id": "76162881-2906-4865-8993-26a33320c8d8",
+  "name": "order.resource",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "ctx-resource",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "44fa1cc3-5dce-443d-96e7-1a16dee5dcdc",
+          "required": true,
+          "dataType": "@resources",
+          "name": "resources",
+          "value": "$resources",
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "Qual recurso deseja reservar?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": "Ok, $resources. Em qual data?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

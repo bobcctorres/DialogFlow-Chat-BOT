@@ -1,0 +1,30 @@
+{
+  "id": "29587bbd-09aa-4cc7-abce-06c341bf3f8b",
+  "name": "greetings",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": [
+            "Olá, gostaria de fazer uma reserva de qual recurso?",
+            "Oi, o que deseja reservar?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

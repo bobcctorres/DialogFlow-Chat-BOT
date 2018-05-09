@@ -1,0 +1,41 @@
+{
+  "id": "a120dc48-5ee9-4c32-a466-8007216ac951",
+  "name": "order.confirmed",
+  "auto": true,
+  "contexts": [
+    "ctx-resource",
+    "ctx-schedule"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "ctx-resource",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "ctx-schedule",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": "OK. Reserva confirmada de #ctx-resource.resources, data:  #ctx-schedule.date, período: #ctx-schedule.datetime."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "36631be4-0689-4578-9d35-39456fd5880d",
+  "name": "order.not-confirmed",
+  "auto": true,
+  "contexts": [
+    "ctx-resource",
+    "ctx-schedule"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "ctx-resource",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "ctx-schedule",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": "Ok. Reserva não confirmada"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

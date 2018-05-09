@@ -1,0 +1,66 @@
+[
+  {
+    "id": "8aadc8aa-5a5b-4d2e-ba74-088a213fb800",
+    "data": [
+      {
+        "text": "piscina",
+        "alias": "resources",
+        "meta": "@resources",
+        "userDefined": false
+      },
+      {
+        "text": ", por favor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4d45c0f4-05fa-4000-bf61-4793bf4085a8",
+    "data": [
+      {
+        "text": "gostaria da ",
+        "userDefined": false
+      },
+      {
+        "text": "piscina",
+        "alias": "resources",
+        "meta": "@resources",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "be427030-b0c9-4eaa-9b56-5f8adc8c1c55",
+    "data": [
+      {
+        "text": "quero a ",
+        "userDefined": false
+      },
+      {
+        "text": "piscina",
+        "alias": "resources",
+        "meta": "@resources",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ea092892-2fe0-4133-81bc-60f8efce5bd4",
+    "data": [
+      {
+        "text": "piscina",
+        "alias": "resources",
+        "meta": "@resources",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

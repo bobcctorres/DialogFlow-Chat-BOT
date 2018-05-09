@@ -1,0 +1,69 @@
+{
+  "id": "4fc0697b-4ff1-4385-b462-d4c35613bd79",
+  "name": "order.schedule",
+  "auto": true,
+  "contexts": [
+    "ctx-resource"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "ctx-resource",
+          "parameters": {},
+          "lifespan": 3
+        },
+        {
+          "name": "ctx-schedule",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "3ac3420d-5885-4963-a3ee-61c0065b5585",
+          "required": true,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "Em qual data?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "99d37315-a607-4a9d-a4f0-97788ec4c9cb",
+          "required": true,
+          "dataType": "@sys.time-period",
+          "name": "datetime",
+          "value": "$datetime",
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "Em qual período de horário deseja agendar?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": "Certo. Por favor Confirme: Reservar, #ctx-resource.resources, data:  $date, período: $datetime?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
